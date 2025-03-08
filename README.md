@@ -38,3 +38,6 @@ Status 📌
 Live Demo 🌍
 
 Coming Soon
+
+
+Note: Project is on master branch
